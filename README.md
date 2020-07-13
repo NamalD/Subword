@@ -1,5 +1,7 @@
 # SubWord
 
+## TODO: DEPLOY AND ADD LINK
+
 View all words permuations embedded in text.
 
 For example, "Hello world" contains the words "hello", "hell", "hold", "lord" - all of which can be generated from the source text while preserving the letter order.
