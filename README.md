@@ -1,10 +1,19 @@
-# SAFE Template
+# SubWord
 
-This template can be used to generate a full-stack web application using the [SAFE Stack](https://safe-stack.github.io/). It was created using the dotnet [SAFE Template](https://safe-stack.github.io/docs/template-overview/). If you want to learn more about the template why not start with the [quick start](https://safe-stack.github.io/docs/quickstart/) guide?
+View all words permuations embedded in text.
+
+For example, "Hello world" contains the words "hello", "hell", "hold", "lord" - all of which can be generated from the source text while preserving the letter order.
+
+### TODO: ADD IMAGE TO ILLUSTRATE EXAMPLE
+
+## Tech Stack
+
+- F#
+- SAFE stack
 
 ## Install pre-requisites
 
-You'll need to install the following pre-requisites in order to build SAFE applications
+You'll need to install the following pre-requisites in order to build 
 
 * The [.NET Core SDK](https://www.microsoft.com/net/download)
 * The [Yarn](https://yarnpkg.com/lang/en/docs/install/) package manager (you can also use `npm` but the usage of `yarn` is encouraged).
@@ -36,4 +45,3 @@ You will find more documentation about the used F# components at the following p
 * [Elmish](https://elmish.github.io/elmish/)
 * [Fulma](https://fulma.github.io/Fulma/)
 
-If you want to know more about the full Azure Stack and all of it's components (including Azure) visit the official [SAFE documentation](https://safe-stack.github.io/docs/).
