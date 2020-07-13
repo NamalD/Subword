@@ -1,6 +1,6 @@
 # SubWord
 
-## TODO: DEPLOY AND ADD LINK
+### TODO: DEPLOY AND ADD LINK
 
 View all words permuations embedded in text.
 
